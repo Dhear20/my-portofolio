@@ -7,6 +7,7 @@ import booko from '../assets/projects/booko.png'
 import tamia from '../assets/projects/tamia.png'
 import webUnivPancasila from '../assets/projects/univpancasila.png'
 
+
 const linkCv = 'https://drive.google.com/file/d/1AW3ggLDnUodqK9NsBuHU8dLAqbTCBi7-/view?usp=sharing';
 const linkGit = 'https://github.com/adityardiansyah';
 const linkLinkedin = 'https://www.linkedin.com/in/aditya-ardiansyah/';

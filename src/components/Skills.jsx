@@ -30,14 +30,14 @@ export const Skills = () => {
             <StackIcon name="reactjs" className="p-4" />
             <p className="my-2 sm:my-4">React</p>
           </div> */}
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+          {/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <StackIcon name="nodejs" className="p-4" />
             <p className="my-2 sm:my-4">NodeJs</p>
-          </div>
-          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+          </div> */}
+          {/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <StackIcon name="tailwindcss" className="p-4" />
             <p className="my-2 sm:my-4">Tailwind</p>
-          </div>
+          </div> */}
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <StackIcon name="bootstrap5" className="p-4" />
             <p className="my-2 sm:my-4">Bootstrap</p>
@@ -57,6 +57,10 @@ export const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <StackIcon name="mysql" className="p-4" />
             <p className="my-2 sm:my-4">Mysql</p>
+          </div>
+           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img src={require("../assets/ap.png")} alt="Premiere" className="p-4" />
+            <p className="my-2 sm:my-4">Premiere</p>
           </div>
           {/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <StackIcon name="postgresql" className="p-4" />

@@ -98,7 +98,7 @@ const Home = () => {
           </div>
           <div className="order-2 lg:order-2">
             <img
-              src="/poto ktp.jpg"
+              src="/Dhea.jpg"
               alt="Deskripsi Gambar"
               id="icon-slide"
               className="hidden md:flex w-50 h-50 rounded-full object-cover"

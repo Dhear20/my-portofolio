@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="w-full sm:w-10/12 h-[80px] flex justify-between items-center px-4 bg-white dark:bg-[#0a192f] text-black dark:text-white transition-colors duration-300">
         {/* Logo */}
         <div className="flex items-center gap-1">
-          <span className="text-3xl font-bold text-green-500">152023211_DheRoh</span>
+          <span className="text-3xl font-bold text-green-500">Dhea Rohana</span>
           <span className="text-4xl rounded-full">.</span>
         </div>
 
